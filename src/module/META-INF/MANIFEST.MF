@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+StarfaceModule_SpecVersion: 5
+Created-By: STARFACE Version 6.1.0.1
+ObjectId: a759475f-fc7d-4fb5-82ac-fde55f8e140a
+Create-Date: 2016-06-20T14:46:39+02:00
+
